@@ -21,9 +21,13 @@
   },
   "homepage": "https://github.com/imgcook-plugin/plugin-template#readme",
   "devDependencies": {
-    "chai": "^4.2.0"
+    "@imgcook/plugin-generate": "^0.1.6",
+    "chai": "^4.2.0",
+    "child_process": "^1.0.2",
+    "fs-extra": "^7.0.1"
   },
   "dependencies": {
+    "@imgcook/cli-utils": "^0.1.7",
     "chalk": "^3.0.0",
     "fs-extra": "^7.0.1",
     "ora": "^3.4.0"
