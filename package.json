@@ -1,6 +1,6 @@
 {
   "name": "@imgcook/generator-zcw-react",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "generate a new peoject from a react template",
   "main": "index.js",
   "scripts": {
